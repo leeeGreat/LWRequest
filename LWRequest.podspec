@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
 s.author             = { "邢立伟" => "547280745@qq.com" }
   s.source       = { :git => "https://github.com/leeeGreat/LWRequest.git", :tag => "#{s.version}" }
 
-s.source_files  = "LWRequest/*.{h,m}"
+s.source_files  = "LWRequest/LWRequest/*.{h,m}"
 end
